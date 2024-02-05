@@ -1,1 +1,1 @@
-To check if Git is configured and if you are logged in (authenticated) on your system, you can use the following commands in the command prompt or terminal:
+ check if Git is configured and if you are logged in (authenticated) on your system, you can use the following commands in the command prompt or terminal:
